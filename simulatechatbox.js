@@ -2,9 +2,9 @@
 const messageSets = [
     { username: "Marykkjk", message: "Oláaaaaaa", badges: "" },
     { username: "huntermotion", message: "eu sou o millior", badges: "badge1, badge2" },
-    { username: "MrPoladoful", message: "da like", badges: "badge3" },
+    { username: "MrPoladoFul", message: "da like", badges: "badge3" },
     { username: "GordaoAVG", message: "spamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspam", badges: "" },
-    { username: "Carlinhos", message: "eu bati o recorde mundial em dar", badges: "badge4" }
+    { username: "Carlinhosss", message: "eu bati o recorde mundial em dar", badges: "badge4" }
 ];
 
 // Função para gerar uma mensagem aleatória
